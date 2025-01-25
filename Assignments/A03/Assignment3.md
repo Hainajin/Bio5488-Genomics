@@ -204,7 +204,7 @@ BLAST online is really slow.
 
 Extra credit files:
 
-(E1) Additional gap size distribution plot
+(E1) Additional gap size distribution plot.
 
 (E2) Python script for tallying duplicates from the bowtie2 aligned sam file.
 
